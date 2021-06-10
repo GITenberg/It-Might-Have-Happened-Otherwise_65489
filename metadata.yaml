@@ -1,0 +1,28 @@
+_repo: It-Might-Have-Happened-Otherwise_65489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pendexter, Hugh
+    alias: Rochester, Faunce
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '32134'
+    url: http://www.gutenberg.org/2009/agents/32134
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Pendexter
+description: ''
+gutenberg_issued: '2021-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Railroad station managers -- Fiction'
+- GITenberg
+title: It Might Have Happened Otherwise
+url: http://www.gutenberg.org/ebooks/65489
